@@ -1,4 +1,4 @@
-**#EC413**
+**EC413 Computer Organization**
 
 EC413 is an introduction to the fundamentals and design of computer systems. The starting
 points are your basic knowledge of logic design and high-level language programming. The end
